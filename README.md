@@ -22,16 +22,25 @@ Details on setting it up can be read at http://blog.riyas.org
 
 
 git clone https://github.com/riyas-org/nrf24pihub
+
 cd nrf24pihub
+
 cd python-spi
+
 sudo python setup.py install
+
 cd ../RPi.GPIO-0.5.6
+
 sudo python setup.py install
+
 cd ..
 
+
 Start the application
+
 sudo python raspberryfriend.py
 
+===========================================================
 Pyton code
 
 
