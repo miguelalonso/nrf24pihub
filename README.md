@@ -34,6 +34,7 @@ sudo python raspberryfriend.py
 
 Pyton code
 
+
 #!/usr/bin/python
 # raspberry pi nrf24l01 hub
 # more details at http://blog.riyas.org
